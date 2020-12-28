@@ -139,29 +139,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIsvedimas.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIvedimas.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuNuskaitymas.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuPasirinkimas.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\failoSukurimas.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\galutinisPazymys.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\pagalbine.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Studentas.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\studentuSarasoDalinimas.cpp" />
+    <ClCompile Include="duomenuIsvedimas.cpp" />
+    <ClCompile Include="duomenuIvedimas.cpp" />
+    <ClCompile Include="duomenuNuskaitymas.cpp" />
+    <ClCompile Include="duomenuPasirinkimas.cpp" />
+    <ClCompile Include="failoSukurimas.cpp" />
+    <ClCompile Include="galutinisPazymys.cpp" />
+    <ClCompile Include="pagalbine.cpp" />
+    <ClCompile Include="Studentas.cpp" />
     <ClCompile Include="studentuIvertinimai-diegimas-.cpp" />
+    <ClCompile Include="studentuSarasoDalinimas.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Antrastes.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Asmuo.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIsvedimas.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIvedimas.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuNuskaitymas.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuPasirinkimas.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\failoSukurimas.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\galutinisPazymys.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\pagalbine.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Studentas.h" />
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\studentuSarasoDalinimas.h" />
+    <ClInclude Include="Antrastes.h" />
+    <ClInclude Include="Asmuo.h" />
+    <ClInclude Include="duomenuIsvedimas.h" />
+    <ClInclude Include="duomenuIvedimas.h" />
+    <ClInclude Include="duomenuNuskaitymas.h" />
+    <ClInclude Include="duomenuPasirinkimas.h" />
+    <ClInclude Include="failoSukurimas.h" />
+    <ClInclude Include="galutinisPazymys.h" />
+    <ClInclude Include="pagalbine.h" />
+    <ClInclude Include="Studentas.h" />
+    <ClInclude Include="studentuSarasoDalinimas.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

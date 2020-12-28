@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "studentuIvertinimai-diegimas-", "studentuIvertinimai-diegimas-\studentuIvertinimai-diegimas-.vcxproj", "{C90547C3-A5D0-4448-8EA8-694022050A78}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{EE990669-D173-4B51-A49C-323A37B08551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{C90547C3-A5D0-4448-8EA8-694022050A78}.Release|x64.Build.0 = Release|x64
 		{C90547C3-A5D0-4448-8EA8-694022050A78}.Release|x86.ActiveCfg = Release|Win32
 		{C90547C3-A5D0-4448-8EA8-694022050A78}.Release|x86.Build.0 = Release|Win32
+		{EE990669-D173-4B51-A49C-323A37B08551}.Debug|x64.ActiveCfg = Debug
+		{EE990669-D173-4B51-A49C-323A37B08551}.Debug|x86.ActiveCfg = Debug
+		{EE990669-D173-4B51-A49C-323A37B08551}.Release|x64.ActiveCfg = Release
+		{EE990669-D173-4B51-A49C-323A37B08551}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

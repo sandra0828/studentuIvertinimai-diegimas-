@@ -18,66 +18,66 @@
     <ClCompile Include="studentuIvertinimai-diegimas-.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIsvedimas.cpp">
+    <ClCompile Include="duomenuIsvedimas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIvedimas.cpp">
+    <ClCompile Include="duomenuIvedimas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuNuskaitymas.cpp">
+    <ClCompile Include="duomenuNuskaitymas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuPasirinkimas.cpp">
+    <ClCompile Include="duomenuPasirinkimas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\failoSukurimas.cpp">
+    <ClCompile Include="failoSukurimas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\galutinisPazymys.cpp">
+    <ClCompile Include="galutinisPazymys.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\pagalbine.cpp">
+    <ClCompile Include="pagalbine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Studentas.cpp">
+    <ClCompile Include="Studentas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\studentuSarasoDalinimas.cpp">
+    <ClCompile Include="studentuSarasoDalinimas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Antrastes.h">
+    <ClInclude Include="Antrastes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Asmuo.h">
+    <ClInclude Include="Asmuo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIsvedimas.h">
+    <ClInclude Include="duomenuIsvedimas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuIvedimas.h">
+    <ClInclude Include="duomenuIvedimas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuNuskaitymas.h">
+    <ClInclude Include="duomenuNuskaitymas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\duomenuPasirinkimas.h">
+    <ClInclude Include="duomenuPasirinkimas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\failoSukurimas.h">
+    <ClInclude Include="failoSukurimas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\galutinisPazymys.h">
+    <ClInclude Include="galutinisPazymys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\pagalbine.h">
+    <ClInclude Include="pagalbine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\Studentas.h">
+    <ClInclude Include="Studentas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\studentuIvertinimai-klase--1.5\studentuIvertinimai(vektorius)\studentuSarasoDalinimas.h">
+    <ClInclude Include="studentuSarasoDalinimas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
