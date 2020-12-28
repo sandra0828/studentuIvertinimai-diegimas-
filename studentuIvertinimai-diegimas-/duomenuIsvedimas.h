@@ -1,0 +1,14 @@
+#pragma once
+
+#include "Studentas.h"
+#include "pagalbine.h"
+#include <algorithm>
+
+using std::endl;
+using std::setw;
+using std::setprecision;
+using std::fixed;
+using std::left;
+using std::vector;
+
+void duomenuIsvedimas(vector <Studentas> studentai);
